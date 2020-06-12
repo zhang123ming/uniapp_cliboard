@@ -1,0 +1,4 @@
+import clipboard from "@/common/dc-clipboard/clipboard.js"
+
+
+clipboard.setText('Hello uni-app!');
